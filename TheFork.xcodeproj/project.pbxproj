@@ -11,6 +11,18 @@
 		EC7F7AC3257157E6004B4B8A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7F7AC2257157E6004B4B8A /* ContentView.swift */; };
 		EC7F7AC5257157E9004B4B8A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC7F7AC4257157E9004B4B8A /* Assets.xcassets */; };
 		EC7F7AC8257157E9004B4B8A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC7F7AC7257157E9004B4B8A /* Preview Assets.xcassets */; };
+		EC7F7AD225715A9D004B4B8A /* RestaurantLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7F7AD125715A9D004B4B8A /* RestaurantLabelView.swift */; };
+		EC7F7AD825717AF9004B4B8A /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7F7AD725717AF9004B4B8A /* Extensions.swift */; };
+		EC7F7ADD257181A7004B4B8A /* BookButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7F7ADC257181A7004B4B8A /* BookButtonStyle.swift */; };
+		EC7F7AE42571859A004B4B8A /* RestaurantModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7F7AE32571859A004B4B8A /* RestaurantModel.swift */; };
+		EC7F7AE8257186CB004B4B8A /* Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7F7AE7257186CB004B4B8A /* Enums.swift */; };
+		EC7F7AEC257197F5004B4B8A /* RestaurantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7F7AEB257197F5004B4B8A /* RestaurantView.swift */; };
+		EC7F7AF025719803004B4B8A /* RestaurantViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7F7AEF25719803004B4B8A /* RestaurantViewModel.swift */; };
+		EC7F7AF32571992E004B4B8A /* RestaurantStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7F7AF22571992E004B4B8A /* RestaurantStore.swift */; };
+		EC9655D42571E38C00D9DA68 /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC9655D32571E38C00D9DA68 /* AddressView.swift */; };
+		ECF933F12571D79B0051746D /* HeaderGalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF933F02571D79B0051746D /* HeaderGalleryView.swift */; };
+		ECF933F42571D95E0051746D /* InformationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF933F32571D95E0051746D /* InformationView.swift */; };
+		ECF933F72571DA650051746D /* ReviewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF933F62571DA650051746D /* ReviewsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +32,18 @@
 		EC7F7AC4257157E9004B4B8A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC7F7AC7257157E9004B4B8A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EC7F7AC9257157E9004B4B8A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC7F7AD125715A9D004B4B8A /* RestaurantLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantLabelView.swift; sourceTree = "<group>"; };
+		EC7F7AD725717AF9004B4B8A /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		EC7F7ADC257181A7004B4B8A /* BookButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookButtonStyle.swift; sourceTree = "<group>"; };
+		EC7F7AE32571859A004B4B8A /* RestaurantModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantModel.swift; sourceTree = "<group>"; };
+		EC7F7AE7257186CB004B4B8A /* Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
+		EC7F7AEB257197F5004B4B8A /* RestaurantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantView.swift; sourceTree = "<group>"; };
+		EC7F7AEF25719803004B4B8A /* RestaurantViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantViewModel.swift; sourceTree = "<group>"; };
+		EC7F7AF22571992E004B4B8A /* RestaurantStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantStore.swift; sourceTree = "<group>"; };
+		EC9655D32571E38C00D9DA68 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
+		ECF933F02571D79B0051746D /* HeaderGalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderGalleryView.swift; sourceTree = "<group>"; };
+		ECF933F32571D95E0051746D /* InformationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InformationView.swift; sourceTree = "<group>"; };
+		ECF933F62571DA650051746D /* ReviewsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +76,9 @@
 		EC7F7ABF257157E6004B4B8A /* TheFork */ = {
 			isa = PBXGroup;
 			children = (
+				EC7F7AEA257197CB004B4B8A /* Restaurant */,
+				EC7F7ADB2571818E004B4B8A /* Styles */,
+				EC7F7AD625717AEE004B4B8A /* Utils */,
 				EC7F7AC0257157E6004B4B8A /* TheForkApp.swift */,
 				EC7F7AC2257157E6004B4B8A /* ContentView.swift */,
 				EC7F7AC4257157E9004B4B8A /* Assets.xcassets */,
@@ -67,6 +94,55 @@
 				EC7F7AC7257157E9004B4B8A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EC7F7AD025715A01004B4B8A /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EC7F7AD125715A9D004B4B8A /* RestaurantLabelView.swift */,
+				ECF933F02571D79B0051746D /* HeaderGalleryView.swift */,
+				ECF933F32571D95E0051746D /* InformationView.swift */,
+				ECF933F62571DA650051746D /* ReviewsView.swift */,
+				EC9655D32571E38C00D9DA68 /* AddressView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		EC7F7AD625717AEE004B4B8A /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				EC7F7AD725717AF9004B4B8A /* Extensions.swift */,
+				EC7F7AE7257186CB004B4B8A /* Enums.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		EC7F7ADB2571818E004B4B8A /* Styles */ = {
+			isa = PBXGroup;
+			children = (
+				EC7F7ADC257181A7004B4B8A /* BookButtonStyle.swift */,
+			);
+			path = Styles;
+			sourceTree = "<group>";
+		};
+		EC7F7AE22571857B004B4B8A /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				EC7F7AE32571859A004B4B8A /* RestaurantModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		EC7F7AEA257197CB004B4B8A /* Restaurant */ = {
+			isa = PBXGroup;
+			children = (
+				EC7F7AE22571857B004B4B8A /* Models */,
+				EC7F7AD025715A01004B4B8A /* Views */,
+				EC7F7AEB257197F5004B4B8A /* RestaurantView.swift */,
+				EC7F7AEF25719803004B4B8A /* RestaurantViewModel.swift */,
+				EC7F7AF22571992E004B4B8A /* RestaurantStore.swift */,
+			);
+			path = Restaurant;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,8 +214,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ECF933F12571D79B0051746D /* HeaderGalleryView.swift in Sources */,
+				EC7F7ADD257181A7004B4B8A /* BookButtonStyle.swift in Sources */,
 				EC7F7AC3257157E6004B4B8A /* ContentView.swift in Sources */,
+				EC7F7AF32571992E004B4B8A /* RestaurantStore.swift in Sources */,
 				EC7F7AC1257157E6004B4B8A /* TheForkApp.swift in Sources */,
+				ECF933F72571DA650051746D /* ReviewsView.swift in Sources */,
+				EC7F7AEC257197F5004B4B8A /* RestaurantView.swift in Sources */,
+				EC9655D42571E38C00D9DA68 /* AddressView.swift in Sources */,
+				EC7F7AF025719803004B4B8A /* RestaurantViewModel.swift in Sources */,
+				EC7F7AD225715A9D004B4B8A /* RestaurantLabelView.swift in Sources */,
+				EC7F7AE8257186CB004B4B8A /* Enums.swift in Sources */,
+				ECF933F42571D95E0051746D /* InformationView.swift in Sources */,
+				EC7F7AE42571859A004B4B8A /* RestaurantModel.swift in Sources */,
+				EC7F7AD825717AF9004B4B8A /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
